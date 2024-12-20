@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "BP",
+			"path": "./BP"
+		},
+		{
+			"name": "Precoded_Polar_Code",
+			"path": "./Precoded_Polar_Code"
+		},
+		{
+			"name": "PolarCode_WorkSpace",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

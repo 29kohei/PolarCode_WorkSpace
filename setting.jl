@@ -1,0 +1,1 @@
+dir = "C:\\Users\\meph_\\Kohei\\VScode\\polarcode\\PolarCode_WorkSpace\\Polar_Code_Utility"
